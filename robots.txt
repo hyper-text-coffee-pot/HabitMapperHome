@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /data-subject-access-request.html
+
+Sitemap: https://habitmapper.com/sitemap.xml
